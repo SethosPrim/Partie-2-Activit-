@@ -21,8 +21,11 @@ D:\Dossiers\OpenClassrooms\OpenClassrooms\Cours\Projet\Projet 2\Exercices\Git et
  1 file changed, 13 insertions(+)
  create mode 100644 README.txt
 
-D:\Dossiers\OpenClassrooms\OpenClassrooms\Cours\Projet\Projet 2\Exercices\Git et GitHub\Partie-2-Activit-> echo > README2.0.txt
+D:\Dossiers\OpenClassrooms\OpenClassrooms\Cours\Projet\Projet 2\Exercices\Git et GitHub\Partie-2-Activit-> git log
+commit 2248ff5870715dbd647a4318bd4ba45bcee26f83
+Author: frederic <fredericScourbin@gmail.com>
+Date:   Sat Apr 27 18:05:41 2019 +0200
 
-D:\Dossiers\OpenClassrooms\OpenClassrooms\Cours\Projet\Projet 2\Exercices\Git et GitHub\Partie-2-Activit-> notepad README2.0.txt
+    pr<C3><A9>sentation du projet
 
 D:\Dossiers\OpenClassrooms\OpenClassrooms\Cours\Projet\Projet 2\Exercices\Git et GitHub\Partie-2-Activit->
